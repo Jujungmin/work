@@ -80,7 +80,6 @@ function philoWrap() {
         });
     });
     
-    // [참고] https://stackoverflow.com/questions/8189840/get-mouse-wheel-events-in-jquery
     
     $philoBtn.on('click', 'a', function() {
         philoIdx = $(this).parent('li').index();
@@ -334,7 +333,6 @@ function shopGallery() {
 
     function shopNextSlide() {
         $shopSlideLi.eq(currentIdx).stop().animate({left: -shopSlideW}, speed, function() {
-            // 안해주면 한바퀴 돈 후, 왼쪽에서 오른쪽으로 이미지가 이동한다.(-에서 0로)
             $(this).css({left: shopSlideW});
         });
         if(currentIdx < (shopSlideTotal - 1)) {
