@@ -296,7 +296,11 @@ function shopGallery() {
     var shopInterval;
     var speed = 600;
     var $shopNavArrow = $('.shop_nav_arrow');
-    
+
+  $(window).resize(function() {
+        shopSetImg();
+    }).trigger('resize');  
+
     $shopNavArrow.on({
         mouseenter: function() {
             clearInterval(shopInterval);
@@ -350,9 +354,4 @@ function shopGallery() {
         }
         $shopSlideLi.eq(currentIdx).css({left: -shopSlideW}).stop().animate({left: 0}, speed)
     }
-
-    $(window).resize(function() {
-        shopSetImg();
-    }).trigger('resize');
-
 } // shopGallery() END

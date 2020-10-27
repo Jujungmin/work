@@ -17,6 +17,7 @@
 * { box-sizing: border-box; }
 .cf::before, .cf::after { content: ''; display: block; }
 .cf::after { clear: both; }
+ul, li, ol { list-style: none; }
 a:hover,
 a:active { text-decoration: none; }
 ::-webkit-selection { background-color: #c0c79c; color: #fff; }
