@@ -2,14 +2,20 @@
 var wW;
 var wH;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 301be1fcb37ec69320c245b310f75ec84db37f02
 /*-------------------------------------------------------------------
     header
     footer
 -------------------------------------------------------------------*/
 $(document).ready(function() {
 
+<<<<<<< HEAD
     // $('html').animate({scrollTop: $('footer').offset().top}, 28000)
+=======
+>>>>>>> 301be1fcb37ec69320c245b310f75ec84db37f02
     // 현재 주소 상태확인
     var url = location.href;
     var urlPara = url.split('/');

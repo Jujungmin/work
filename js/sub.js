@@ -80,7 +80,10 @@ function philoWrap() {
         });
     });
     
+<<<<<<< HEAD
     // [참고] https://stackoverflow.com/questions/8189840/get-mouse-wheel-events-in-jquery
+=======
+>>>>>>> 301be1fcb37ec69320c245b310f75ec84db37f02
     
     $philoBtn.on('click', 'a', function() {
         philoIdx = $(this).parent('li').index();
@@ -353,4 +356,8 @@ function shopGallery() {
         }
         $shopSlideLi.eq(currentIdx).css({left: -shopSlideW}).stop().animate({left: 0}, speed)
     }
+<<<<<<< HEAD
 } // shopGallery() END
+=======
+} // shopGallery() END
+>>>>>>> 301be1fcb37ec69320c245b310f75ec84db37f02

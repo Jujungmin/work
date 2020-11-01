@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💁🏻 About This Portfolio
 
 
@@ -171,3 +172,7 @@
 
 
 
+=======
+# portfolio
+portfolio
+>>>>>>> 301be1fcb37ec69320c245b310f75ec84db37f02
