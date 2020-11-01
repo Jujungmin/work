@@ -114,7 +114,7 @@
 
 ## Main page
 
-![main](/Users/jungmin/Desktop/main.png)
+![main](main.png)
 
 
 
@@ -124,11 +124,11 @@
 
 ## Sub page
 
-![sub1_2](/Users/jungmin/Desktop/sub1_2.jpg)
+![sub1_2](sub1_2.jpg)
 
 
 
-![sub3_4_5](/Users/jungmin/Desktop/sub3_4_5.jpg)
+![sub3_4_5](sub3_4_5.jpg)
 
 
 
