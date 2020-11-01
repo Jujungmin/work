@@ -2,12 +2,14 @@
 var wW;
 var wH;
 
+
 /*-------------------------------------------------------------------
     header
     footer
 -------------------------------------------------------------------*/
 $(document).ready(function() {
 
+    // $('html').animate({scrollTop: $('footer').offset().top}, 28000)
     // 현재 주소 상태확인
     var url = location.href;
     var urlPara = url.split('/');

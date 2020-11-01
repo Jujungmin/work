@@ -334,7 +334,6 @@ function shopGallery() {
 
     function shopNextSlide() {
         $shopSlideLi.eq(currentIdx).stop().animate({left: -shopSlideW}, speed, function() {
-            // 안해주면 한바퀴 돈 후, 왼쪽에서 오른쪽으로 이미지가 이동한다.(-에서 0로)
             $(this).css({left: shopSlideW});
         });
         if(currentIdx < (shopSlideTotal - 1)) {
