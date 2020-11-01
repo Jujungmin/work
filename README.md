@@ -87,19 +87,22 @@
 <tr><th>약속어</th><th>범위</th></tr></thead>
 <tbody><tr><td>#wrapper</td><td>페이지 전체 영역</td></tr><tr><td>#header</td><td>머리글 영역</td></tr><tr><td>#container</td><td>본문 영역</td></tr><tr><td>#section</td><td>주요 콘텐츠 영역</td></tr><tr><td>#footer</td><td>바닥글 영역</td></tr><tr><td>.wrap</td><td>고정너비가 필요없을 때 콘텐츠 묶음 영역</td></tr><tr><td>.inner</td><td>고정너비가 필요할 때 콘텐츠 묶음 영역</td></tr></tbody>
 </table></figure>
-
 <br />
 <br />
 
-<h2>Main page</h2>
-<p><img src="file:///Users/jungmin/Desktop/work01/main.png" referrerpolicy="no-referrer" alt="main"></p>
+## Main page
+
+![main](/Users/jungmin/Desktop/work01/main.png)
+
 <br /><br />
 <br />
 
-<h2>Sub page</h2>
-<p><img src="file:///Users/jungmin/Desktop/work01/sub1_2.jpg" referrerpolicy="no-referrer" alt="sub1_2"></p>
-<p>&nbsp;</p>
-<p><img src="file:///Users/jungmin/Desktop/work01/sub3_4_5.jpg" referrerpolicy="no-referrer" alt="sub3_4_5"></p>
+## Sub page
+
+![sub1_2](/Users/jungmin/Desktop/work01/sub1_2.jpg)
+
+![sub3_4_5](/Users/jungmin/Desktop/work01/sub3_4_5.jpg)
+
 <br />
 <br />
 <br />
@@ -124,5 +127,4 @@
 <p>그러면서도 하나하나 알아가는 재미를 느꼈고, 어떻게 하면 더 나은 방향으로 갈 수 있는지에 대해 고민해 볼 수 있는 시간을 가져서 보람있게 작업해서 나아갔습니다.</p>
 <p>퍼블리싱을 하면서 콘텐츠를 보여줄 수 있는 다양한 방법들과 더 나은 표준성을 위해 계속 배워나가야겠다는 생각이 들었습니다.</p>
 <br />
-
 <br />
