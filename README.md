@@ -10,13 +10,27 @@
 
 <br>
 
-<p><strong style="padding-right: 125px">Date</strong>2020.09 ~ 2020.10</p>
-<p><strong style="padding-right: 125px">Role</strong>마크업(100%) , 스크립트제작(100%)</p>
-<p><strong style="padding-right: 95px">Viewport</strong>반응형</p>
-<p><strong style="padding-right: 50px">Cross Browsing</strong>크로스브라우징</p>
-<p><strong style="padding-right: 130px">URL</strong>포트폴리오👉🏻	<a href='https://jujungmin.github.io/work' target='_blank' class='url'>https://jujungmin.github.io/work</a></p>
-<p style="padding-left: 160px">블로그👉🏻	<a href='https://jmjmjm.tistory.com' target='_blank' class='url'>https://jmjmjm.tistory.com</a></p>
-<br>
+<u>**Date**</u>
+
+2020.09 ~ 2020.10
+
+<u>**Role**</u>
+
+마크업(100%) , 스크립트제작(100%)
+
+<u>**Viewport**</u>
+
+반응형
+
+<u>**Cross Browsing**</u>
+
+크로스브라우징
+
+<u>**URL**</u>
+
+포트폴리오👉🏻 https://jujungmin.github.io/work
+
+블로그👉🏻 [https://jmjmjm.tistory.com](https://jmjmjm.tistory.com/)
 <br>
 <br>
 
@@ -87,28 +101,27 @@
 <tr><th>약속어</th><th>범위</th></tr></thead>
 <tbody><tr><td>#wrapper</td><td>페이지 전체 영역</td></tr><tr><td>#header</td><td>머리글 영역</td></tr><tr><td>#container</td><td>본문 영역</td></tr><tr><td>#section</td><td>주요 콘텐츠 영역</td></tr><tr><td>#footer</td><td>바닥글 영역</td></tr><tr><td>.wrap</td><td>고정너비가 필요없을 때 콘텐츠 묶음 영역</td></tr><tr><td>.inner</td><td>고정너비가 필요할 때 콘텐츠 묶음 영역</td></tr></tbody>
 </table></figure>
-
 <br />
 <br />
 
-<h2>Main page</h2>
-<p><img src="file:///Users/jungmin/Desktop/work01/main.png" referrerpolicy="no-referrer" alt="main"></p>
+## Main page
+
+![main](/Users/jungmin/Desktop/work01/main.png)
+
 <br /><br />
 <br />
 
-<h2>Sub page</h2>
-<p><img src="file:///Users/jungmin/Desktop/work01/sub1_2.jpg" referrerpolicy="no-referrer" alt="sub1_2"></p>
-<p>&nbsp;</p>
-<p><img src="file:///Users/jungmin/Desktop/work01/sub3_4_5.jpg" referrerpolicy="no-referrer" alt="sub3_4_5"></p>
+## Sub page
+
+![sub1_2](/Users/jungmin/Desktop/work01/sub1_2.jpg)
+
+![sub3_4_5](/Users/jungmin/Desktop/work01/sub3_4_5.jpg)
+
 <br />
 <br />
 <br />
 
----
-
-<br />
-
-<h3>작업 이후,</h3>
+<h3>작업 후,</h3>
 <p>콘텐츠들이 많이 있는 디자인 시안을 선택해 다양하고, 재미있게 코드를 짤 수 있을 것 같아 선정하게 되었습니다.</p>
 <p>포트폴리오를 만들기 전 저의 목표는 &#39;처음부터 끝까지 내 손으로 짜보자.&#39; 였습니다.</p>
 <p><strong>배웠던 점</strong></p>
@@ -123,6 +136,6 @@
 <p>작업하면서 내가 알았다고 생각했던 점들이 많이 부족하다고 반성하는 시간이었고, 다시 개념을 다질 수 있었던 계기였습니다.</p>
 <p>그러면서도 하나하나 알아가는 재미를 느꼈고, 어떻게 하면 더 나은 방향으로 갈 수 있는지에 대해 고민해 볼 수 있는 시간을 가져서 보람있게 작업해서 나아갔습니다.</p>
 <p>퍼블리싱을 하면서 콘텐츠를 보여줄 수 있는 다양한 방법들과 더 나은 표준성을 위해 계속 배워나가야겠다는 생각이 들었습니다.</p>
-<br />
 
+<br />
 <br />
