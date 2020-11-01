@@ -1,15 +1,15 @@
 # 💁🏻 About This Portfolio
 
-
+<br />
 
 **[기존에 있던 랑벨(Lanbelle)홈페이지](http://en.lanbelle.com/?forced_lang=en) 디자인을 가이드로 하여 퍼블리싱하였습니다.**
 
-
+<br /><br />
 
 >각각의 페이지에 따라 다양한 동적 효과를 보여주며,
 >반응형 웹페이지를 통해 PC, Mobile에서도 자유롭게 구현하는 데 좋을 것 같아 선정하게 되었습니다.
 
-
+<br />
 
 **Date**								2020.09 ~ 2020.10
 
@@ -23,11 +23,11 @@
 
 ​									  	블로그	  👉🏻	https://jmjmjm.tistory.com
 
+<br />
 
+<br />
 
-2020.09.01 ~ 2020.10.25 디자인가이드작업+섹션분리(2), 코드작업(3), 스크립트짜기(2),
-
-
+<br />
 
 ## File / folder structure
 
@@ -41,9 +41,9 @@
 | fonts     | Gotham<br />NotoSansKR<br />webfonts   |                                                              | Gotham<br />NotoSansKR<br />Font Awesome icon                |
 | images    | common<br />main<br />sub<br />favicon |                                                              | header, footer 이미지<br />메인페이지 이미지<br />서브페이지 이미지<br />웹 페이지 아이콘 |
 
+<br />
 
-
-
+<br />
 
 ## HTML/CSS naming
 
@@ -55,9 +55,9 @@
 
   - class는 `under_score`로 작성하여 `형태_의미_상태` 순서로 조합하여, 3단계를 넘어가지 않는다.
 
+<br />
 
-
-
+<br />
 
 
 ## Page Introduce
@@ -80,7 +80,7 @@
 - `서브페이지` sub5.html
   - kakao map API를 사용하여 위치를 나타내었습니다.
 
-
+<br />
 
 - **반응형 사이즈**
 
@@ -90,9 +90,9 @@
 >
 > mobile size 767px 이하~
 
+<br />
 
-
-
+<br />
 
 ## Layer structure
 
@@ -106,21 +106,17 @@
 | .wrap      | 고정너비가 필요없을 때 콘텐츠 묶음 영역 |
 | .inner     | 고정너비가 필요할 때 콘텐츠 묶음 영역   |
 
+<br />
 
-
-
-
-
+<br />
 
 ## Main page
 
 ![main](main.png)
 
+<br /><br />
 
-
-
-
-
+<br />
 
 ## Sub page
 
@@ -130,15 +126,17 @@
 
 ![sub3_4_5](sub3_4_5.jpg)
 
+<br />
 
+<br />
 
-
-
-
+<br />
 
 ---
 
+<br />
 
+<br />
 
 ### 작업 이후,
 
