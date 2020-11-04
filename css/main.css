@@ -123,10 +123,6 @@
 .philo_slide_square { position: absolute; bottom: 0; right: 0; width: 384px; height: 397px; overflow: hidden; }
 .philo_slide_square li { float: left; width: 100%; height: 100%; background-size: contain; background-repeat: no-repeat; background-position: center; }
 .main_philo_nav { right: 0; left: 450px; bottom: 15px; }
-/*
- * 지정된 넓이와 높이 일 때 ==> background-image :: 중요한 이미지가 아닐때 사용
- * 이미지 그대로의 넓이와 높이 쓰고 싶을 때 ==> <img src=""> :: 중요이미지일떄 사용
-*/
 
 
 /*-------------------------------------------------------------------
