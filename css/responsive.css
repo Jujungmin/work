@@ -147,7 +147,7 @@
     .sub_menu,
     .sub_menu_list { width: 100%; position: relative; top: 0; left: 0; margin: 0; display: none; }
     .sub_menu > li,
-    .sub_menu_list > li { width: 100%; line-height: unset; }
+    .sub_menu_list > li { width: 100%; line-height: initial; }
     .sub_menu > li > a,
     .sub_menu_list > li > a { padding: 18px 18px; }
     /* .sub_menu > li:hover > a { color: #888; } */
