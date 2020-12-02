@@ -33,7 +33,7 @@ function philoWrap() {
     var $philoBtn = $('.philo_nav_btn');
     var speed = 1000;
     /* 초기화 */
-    $philoSection.css({top: 0});
+    $philoSection.eq(0).css({top: 0});
     $philoBtn.eq(0).addClass('philoBtn');
     
     $(window).on('resize', function() {
@@ -44,7 +44,8 @@ function philoWrap() {
     // resize 시 현재 보여지는 section 고정.
     function philoResize() {
         var philoT = (-1) * philoIdx * wH;
-        $('.--full_height_scroll').css({height: wH , top: philoT});
+        $('.--full_height_scroll').css({top: philoT});
+        $philoSection.css({height: wH});
     }
 
     var animating = false;
