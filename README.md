@@ -47,29 +47,25 @@ IE9
 
 ## Page Introduce
 
-`메인페이지` index.html
+- `메인페이지` index.html
+  - 슬라이드 제작 및 슬라이드 플러그인(slick) 활용했습니다.
 
-- 슬라이드 제작 및 슬라이드 플러그인(slick) 활용했습니다.
+- `서브페이지` sub1.html
+  - 반응형 스크롤 이벤트 제작, 원페이지 레이아웃을 작업했습니다.
 
-`서브페이지` sub1.html
+- `서브페이지` sub2.html
+  - skllor.js plugin을 사용하여 스크롤에 따라 이미지가 확대・축소됩니다.
 
-- 스크롤 이벤트 제작, 원페이지 레이아웃을 작업했습니다.
+- `서브페이지` sub3.html
+  - CSS `linear-gradient` 사용해 hover 시 투명도를 표현했습니다.
 
-`서브페이지` sub2.html
+- `서브페이지` sub4.html
+  - 사용자 정보 작성을 위한 form을 정규표현식을 사용하여 제작했습니다.
+  - 폼 작성할 때 표현이 맞지 않으면 오류가 나와 재작성 하도록 나타냈습니다.
 
-- skllor.js plugin을 사용하여 스크롤에 따라 이미지가 확대・축소됩니다.
-
-`서브페이지` sub3.html
-
-- CSS `linear-gradient` 사용해 hover 시 투명도를 표현했습니다.
-
-`서브페이지` sub4.html
-
-- 사용자 정보 작성을 위한 form을 제작했습니다.
-
-`서브페이지` sub5.html
-
-- kakao map API를 사용하여 위치를 나타내었습니다.
+- `서브페이지` sub5.html
+  - 롤링할 수 있는 반응형 슬라이드를 제작하였습니다.
+  - kakao map API를 사용하여 위치를 나타내었습니다.
 
 <br />
 
