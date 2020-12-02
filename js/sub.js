@@ -46,7 +46,7 @@ function philoWrap() {
         var philoT = (-1) * philoIdx * wH;
         // $('.--full_height_scroll').css({top: philoT, height: wH});
         $('.--full_height_scroll').css({height: wH});
-        $philoSection.css({height: wH});
+        $philoSection.css({top: philoT, height: wH});
     }
 
     var animating = false;
