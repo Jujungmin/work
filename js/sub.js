@@ -45,6 +45,7 @@ function philoWrap() {
     function philoResize() {
         var philoT = (-1) * philoIdx * wH;
         $('.--full_height_scroll').css({top: philoT, height: wH});
+        $philoSection.css({height: wH});
     }
 
     var animating = false;
