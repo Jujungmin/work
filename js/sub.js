@@ -44,8 +44,7 @@ function philoWrap() {
     // resize 시 현재 보여지는 section 고정.
     function philoResize() {
         var philoT = (-1) * philoIdx * wH;
-        $('.--full_height_scroll').css({top: philoT});
-        $philoSection.css({height: wH});
+        $('.--full_height_scroll').css({top: philoT, height: wH});
     }
 
     var animating = false;
@@ -76,7 +75,7 @@ function philoWrap() {
             }
         }
         $philoBtn.removeClass('philoBtn').eq(philoIdx).addClass('philoBtn');
-        $philoContainer.animate({top: sectionTop}, speed, function() {
+        $philoSection.animate({top: sectionTop}, speed, function() {
             animating = false;
         });
     });
@@ -86,7 +85,7 @@ function philoWrap() {
         philoIdx = $(this).parent('li').index();
         $philoBtn.removeClass('philoBtn').eq(philoIdx).addClass('philoBtn');
         philoT = (-1) * philoIdx * wH;
-        $philoContainer.animate({top: philoT}, speed);
+        $philoSection.animate({top: philoT}, speed);
         $('#footer.footerFixed').removeClass('footerFixed');
         return false;
     });
@@ -94,7 +93,7 @@ function philoWrap() {
         philoIdx++;
         console.log(philoIdx)
         philoT = (-1) * philoIdx * wH;
-        $philoContainer.animate({top: philoT}, speed);
+        $philoSection.animate({top: philoT}, speed);
         $philoBtn.removeClass('philoBtn').eq(philoIdx).addClass('philoBtn');
         return false;
     });
