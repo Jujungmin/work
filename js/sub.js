@@ -44,7 +44,8 @@ function philoWrap() {
     // resize 시 현재 보여지는 section 고정.
     function philoResize() {
         var philoT = (-1) * philoIdx * wH;
-        $('.--full_height_scroll').css({top: philoT, height: wH});
+        // $('.--full_height_scroll').css({top: philoT, height: wH});
+        $('.--full_height_scroll').css({height: wH});
         $philoSection.css({height: wH});
     }
 
