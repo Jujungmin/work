@@ -80,15 +80,15 @@ var $variableName = $('.variable_name')
 
 ⌞`container` :: 본문에 해당.
 
-<span style="opacity: 0; padding-left: 20px;">/</span>⌞ `main_head` || `sub_head` :: section의 주제.
+⌞ `main_head` || `sub_head` :: section의 주제.
 
-<span style="opacity: 0; padding-left: 20px;">/</span>⌞`main_body` || `main_body` :: section의 내용.
+​        ⌞`main_body` || `main_body` :: section의 내용.
 
-<span style="opacity: 0; padding-left: 40px;">/</span>⌞`section` :: 본문의 단락으로 컨텐츠가 많으면 section으로 묶음.
+​            ⌞`section` :: 본문의 단락으로 컨텐츠가 많으면 section으로 묶음.
 
-<span style="opacity: 0; padding-left: 40px;">/</span>⌞`wrap` :: 자식 묶음이 너비가 필요 없을 때 컨텐츠 묶음.
+​            ⌞`wrap` :: 자식 묶음이 너비가 필요 없을 때 컨텐츠 묶음.
 
-<span style="opacity: 0; padding-left: 40px;">/</span>⌞`inner` :: 자식 묶음이 너비가 필요할 때 컨텐추 묶음 (max-width: 1200px 기준)
+​            ⌞`inner` :: 자식 묶음이 너비가 필요할 때 컨텐추 묶음 (max-width: 1200px 기준)
 
 ⌞`footer` :: 바닥글에 해당.
 
