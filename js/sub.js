@@ -297,11 +297,10 @@ function shopGallery() {
     var shopInterval;
     var speed = 600;
     var $shopNavArrow = $('.shop_nav_arrow');
-
-  $(window).resize(function() {
+    $(window).resize(function() {
         shopSetImg();
     }).trigger('resize');  
-
+    
     $shopNavArrow.on({
         mouseenter: function() {
             clearInterval(shopInterval);
@@ -313,11 +312,11 @@ function shopGallery() {
     
     $shopNavArrow.find('.shop_nav_next').click(shopNextSlide)
     $shopNavArrow.find('.shop_nav_prev').click(shopPrevSlide)
-
+    
     function shopSetImg() {
         shopSlideH = Math.floor($shopSlideLi.find('img').height());
         shopSlideW = Math.floor($shopSlideLi.width());
-        $shopSlide.css({height: shopSlideH});
+        $('.shop_gallery').css({height: shopSlideH});
         for(var i = 0; i < shopSlideTotal; i++) {
             if(i === currentIdx) {
                 $shopSlideLi.eq(i).css({left: 0});
